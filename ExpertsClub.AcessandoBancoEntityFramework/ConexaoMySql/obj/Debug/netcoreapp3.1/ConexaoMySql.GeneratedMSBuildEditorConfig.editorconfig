@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ConexaoMySql
+build_property.ProjectDir = C:\ExpertsClub\AcessandoBancoEF\Fonte\acessando-banco-ef\ExpertsClub.AcessandoBancoEntityFramework\ConexaoMySql\

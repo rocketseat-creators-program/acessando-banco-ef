@@ -1,0 +1,13 @@
+C:\ExpertsClub\AcessandoBancoEF\Fonte\acessando-banco-ef\ExpertsClub.AcessandoBancoEntityFramework\ConexaoOracle\bin\Debug\netcoreapp3.1\ConexaoOracle.deps.json
+C:\ExpertsClub\AcessandoBancoEF\Fonte\acessando-banco-ef\ExpertsClub.AcessandoBancoEntityFramework\ConexaoOracle\bin\Debug\netcoreapp3.1\ConexaoOracle.dll
+C:\ExpertsClub\AcessandoBancoEF\Fonte\acessando-banco-ef\ExpertsClub.AcessandoBancoEntityFramework\ConexaoOracle\bin\Debug\netcoreapp3.1\ConexaoOracle.pdb
+C:\ExpertsClub\AcessandoBancoEF\Fonte\acessando-banco-ef\ExpertsClub.AcessandoBancoEntityFramework\ConexaoOracle\obj\Debug\netcoreapp3.1\ConexaoOracle.csproj.AssemblyReference.cache
+C:\ExpertsClub\AcessandoBancoEF\Fonte\acessando-banco-ef\ExpertsClub.AcessandoBancoEntityFramework\ConexaoOracle\obj\Debug\netcoreapp3.1\ConexaoOracle.GeneratedMSBuildEditorConfig.editorconfig
+C:\ExpertsClub\AcessandoBancoEF\Fonte\acessando-banco-ef\ExpertsClub.AcessandoBancoEntityFramework\ConexaoOracle\obj\Debug\netcoreapp3.1\ConexaoOracle.AssemblyInfoInputs.cache
+C:\ExpertsClub\AcessandoBancoEF\Fonte\acessando-banco-ef\ExpertsClub.AcessandoBancoEntityFramework\ConexaoOracle\obj\Debug\netcoreapp3.1\ConexaoOracle.AssemblyInfo.cs
+C:\ExpertsClub\AcessandoBancoEF\Fonte\acessando-banco-ef\ExpertsClub.AcessandoBancoEntityFramework\ConexaoOracle\obj\Debug\netcoreapp3.1\ConexaoOracle.csproj.CoreCompileInputs.cache
+C:\ExpertsClub\AcessandoBancoEF\Fonte\acessando-banco-ef\ExpertsClub.AcessandoBancoEntityFramework\ConexaoOracle\obj\Debug\netcoreapp3.1\ConexaoOracle.dll
+C:\ExpertsClub\AcessandoBancoEF\Fonte\acessando-banco-ef\ExpertsClub.AcessandoBancoEntityFramework\ConexaoOracle\obj\Debug\netcoreapp3.1\ConexaoOracle.pdb
+C:\ExpertsClub\AcessandoBancoEF\Fonte\acessando-banco-ef\ExpertsClub.AcessandoBancoEntityFramework\ConexaoOracle\bin\Debug\netcoreapp3.1\ConexaoOracle.runtimeconfig.json
+C:\ExpertsClub\AcessandoBancoEF\Fonte\acessando-banco-ef\ExpertsClub.AcessandoBancoEntityFramework\ConexaoOracle\bin\Debug\netcoreapp3.1\ConexaoOracle.runtimeconfig.dev.json
+C:\ExpertsClub\AcessandoBancoEF\Fonte\acessando-banco-ef\ExpertsClub.AcessandoBancoEntityFramework\ConexaoOracle\obj\Debug\netcoreapp3.1\ConexaoOracle.genruntimeconfig.cache

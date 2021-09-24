@@ -1,0 +1,13 @@
+C:\ExpertsClub\AcessandoBancoEF\Fonte\acessando-banco-ef\ExpertsClub.AcessandoBancoEntityFramework\ConexaoMySql\bin\Debug\netcoreapp3.1\ConexaoMySql.deps.json
+C:\ExpertsClub\AcessandoBancoEF\Fonte\acessando-banco-ef\ExpertsClub.AcessandoBancoEntityFramework\ConexaoMySql\bin\Debug\netcoreapp3.1\ConexaoMySql.dll
+C:\ExpertsClub\AcessandoBancoEF\Fonte\acessando-banco-ef\ExpertsClub.AcessandoBancoEntityFramework\ConexaoMySql\bin\Debug\netcoreapp3.1\ConexaoMySql.pdb
+C:\ExpertsClub\AcessandoBancoEF\Fonte\acessando-banco-ef\ExpertsClub.AcessandoBancoEntityFramework\ConexaoMySql\obj\Debug\netcoreapp3.1\ConexaoMySql.csproj.AssemblyReference.cache
+C:\ExpertsClub\AcessandoBancoEF\Fonte\acessando-banco-ef\ExpertsClub.AcessandoBancoEntityFramework\ConexaoMySql\obj\Debug\netcoreapp3.1\ConexaoMySql.GeneratedMSBuildEditorConfig.editorconfig
+C:\ExpertsClub\AcessandoBancoEF\Fonte\acessando-banco-ef\ExpertsClub.AcessandoBancoEntityFramework\ConexaoMySql\obj\Debug\netcoreapp3.1\ConexaoMySql.AssemblyInfoInputs.cache
+C:\ExpertsClub\AcessandoBancoEF\Fonte\acessando-banco-ef\ExpertsClub.AcessandoBancoEntityFramework\ConexaoMySql\obj\Debug\netcoreapp3.1\ConexaoMySql.AssemblyInfo.cs
+C:\ExpertsClub\AcessandoBancoEF\Fonte\acessando-banco-ef\ExpertsClub.AcessandoBancoEntityFramework\ConexaoMySql\obj\Debug\netcoreapp3.1\ConexaoMySql.csproj.CoreCompileInputs.cache
+C:\ExpertsClub\AcessandoBancoEF\Fonte\acessando-banco-ef\ExpertsClub.AcessandoBancoEntityFramework\ConexaoMySql\obj\Debug\netcoreapp3.1\ConexaoMySql.dll
+C:\ExpertsClub\AcessandoBancoEF\Fonte\acessando-banco-ef\ExpertsClub.AcessandoBancoEntityFramework\ConexaoMySql\obj\Debug\netcoreapp3.1\ConexaoMySql.pdb
+C:\ExpertsClub\AcessandoBancoEF\Fonte\acessando-banco-ef\ExpertsClub.AcessandoBancoEntityFramework\ConexaoMySql\bin\Debug\netcoreapp3.1\ConexaoMySql.runtimeconfig.json
+C:\ExpertsClub\AcessandoBancoEF\Fonte\acessando-banco-ef\ExpertsClub.AcessandoBancoEntityFramework\ConexaoMySql\bin\Debug\netcoreapp3.1\ConexaoMySql.runtimeconfig.dev.json
+C:\ExpertsClub\AcessandoBancoEF\Fonte\acessando-banco-ef\ExpertsClub.AcessandoBancoEntityFramework\ConexaoMySql\obj\Debug\netcoreapp3.1\ConexaoMySql.genruntimeconfig.cache
