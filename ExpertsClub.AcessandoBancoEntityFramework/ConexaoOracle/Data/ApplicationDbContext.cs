@@ -12,7 +12,7 @@ namespace ConexaoOracle.Data
         #region Configuração
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseOracle("User Id=variosbancos;Password=1234;Data Source=VM.mshome.net:1521/xe;");
+            optionsBuilder.UseOracle("User Id=variosbancos;Password=1234;Data Source=localhost:1521/xe;");
         }
 
         // Modelagem do Banco de Dados separado por Tabelas
